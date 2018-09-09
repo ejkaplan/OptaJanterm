@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<solver>
+  <solutionClass>JantermSolution</solutionClass>
+  <entityClass>Student</entityClass>
+  <scoreDirectorFactory>
+    <incrementalScoreCalculatorClass>JantermIncrementalScoreCalculator</incrementalScoreCalculatorClass>
+  </scoreDirectorFactory>
+  <termination>
+  	<unimprovedHoursSpentLimit>1</unimprovedHoursSpentLimit>
+  	<unimprovedMinutesSpentLimit>0</unimprovedMinutesSpentLimit>
+  	<unimprovedSecondsSpentLimit>0</unimprovedSecondsSpentLimit>
+  </termination>
+</solver>
