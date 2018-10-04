@@ -23,8 +23,8 @@ public class JantermRunner implements Runnable {
 	private String sizeExceptions;
 
 	public static void main(String[] args) {
-		JantermRunner jr = new JantermRunner("9th_grade.csv", "10th_grade.csv", "11th_grade.csv", "12th_grade.csv",
-				"size_exceptions.csv");
+		JantermRunner jr = new JantermRunner("9th_grade_2019.csv", "10th_grade_2019.csv", "11th_grade_2019.csv",
+				"12th_grade_2019.csv", "exceptions.csv");
 		jr.run();
 	}
 
@@ -115,18 +115,28 @@ public class JantermRunner implements Runnable {
 			boolean gender = row[3].equals("M");
 			List<Course> prefs = new ArrayList<Course>();
 			List<String> rowList = Arrays.asList(row);
+			int count = 0;
 			for (int j = 1; j <= 5; j++) {
 				int pref = rowList.indexOf("" + j);
 				if (pref >= 0) {
+					count++;
 					String courseName = allRows.get(0)[pref];
 					Course c = findCourse(courseName);
 					prefs.add(c);
+				} else {
+					prefs.add(null);
 				}
+				if (count == 0)
+					prefs.clear();
 			}
 			Student st = new Student(first, last, gr, gender, prefs);
-			if (st.getPreferences().size() > 0)
-				st.setAssignment(st.getPreferences().get((int) (st.getPreferences().size() * Math.random())));
-			else
+			if (st.getPreferences().size() > 0) {
+				do {
+//					System.out.println(st.getFirst() + " " + st.getLast());
+//					System.out.println(st.getPreferences());
+					st.setAssignment(st.getPreferences().get((int) (st.getPreferences().size() * Math.random())));
+				} while (st.getAssignment() == null);
+			} else
 				st.setAssignment(gr.getCourses().get((int) (gr.getCourses().size() * Math.random())));
 			students.add(st);
 		}
