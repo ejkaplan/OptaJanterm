@@ -2,7 +2,7 @@
 Program for placing students into Janterm classes.
 
 ## Running the program
-Run janterm.jar, select the 5 files (4 for the preferences for each grade and 1 for max course sizes.) When you hit the run button, it will start placing students into classes by the following criteria, with the following priorities:
+Run [OptaJanterm.jar](https://github.com/ejkaplan/OptaJanterm/raw/master/OptaJanterm/OptaJanterm.jar), select the 5 files (4 for the preferences for each grade and 1 for max course sizes.) When you hit the run button, it will start placing students into classes by the following criteria, with the following priorities:
 
 1. Make sure that each class has no more than its maximum number of students
 2. Make sure that each student is in a course in their top 5
