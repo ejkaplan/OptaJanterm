@@ -145,7 +145,7 @@ public class JantermIncrementalScoreCalculator extends AbstractIncrementalScoreC
 	}
 
 	/**
-	 * Whenever a student is 
+	 * Whenever a student is
 	 */
 	public void afterEntityAdded(Object entity) {
 		insert((Student) entity);

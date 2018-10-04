@@ -1,702 +1,702 @@
 first,last,grade,gender,course,happiness
-Ashwin,Pillai,9,M,"J055-1, Art & Science of Violin Making; Mr. Boomer",0
-Angel,Osorio Maldonado,9,M,"J055-1, Art & Science of Violin Making; Mr. Boomer",4
-Scott,DeShetler,9,M,"J055-1, Art & Science of Violin Making; Mr. Boomer",4
+Blaise,Fleury,9,M,"J055-1, Art & Science of Violin Making; Mr. Boomer",1
 Sam,Pavur,9,M,"J055-1, Art & Science of Violin Making; Mr. Boomer",1
-Charlie,Conklin,9,M,"J055-1, Art & Science of Violin Making; Mr. Boomer",4
-Turner,Woley,10,M,"J055-1, Art & Science of Violin Making; Mr. Boomer",0
-Jack,Lariccia,10,M,"J055-1, Art & Science of Violin Making; Mr. Boomer",0
-Nikki,Nikain,11,F,"J055-1, Art & Science of Violin Making; Mr. Boomer",0
-Oliver,Babb,12,M,"J055-1, Art & Science of Violin Making; Mr. Boomer",5
-Olivia,Barrett,12,F,"J055-1, Art & Science of Violin Making; Mr. Boomer",0
-Morgan,McCamey,12,F,"J055-1, Art & Science of Violin Making; Mr. Boomer",0
-Jack,Polhemus,12,M,"J055-1, Art & Science of Violin Making; Mr. Boomer",5
-Sidney,Nguyen,9,M,"J058-1, Atlanta Civil Rights; Mr. Breite, Ms. Fleming and Ms. Drewicz Ewing",0
-Zoe,Peterzell,9,F,"J058-1, Atlanta Civil Rights; Mr. Breite, Ms. Fleming and Ms. Drewicz Ewing",0
-Hanna,Shimelis,10,F,"J058-1, Atlanta Civil Rights; Mr. Breite, Ms. Fleming and Ms. Drewicz Ewing",5
-Stephanie,Choi,10,F,"J058-1, Atlanta Civil Rights; Mr. Breite, Ms. Fleming and Ms. Drewicz Ewing",5
-Elizabeth,Carter,10,F,"J058-1, Atlanta Civil Rights; Mr. Breite, Ms. Fleming and Ms. Drewicz Ewing",4
-Will,Benton,10,M,"J058-1, Atlanta Civil Rights; Mr. Breite, Ms. Fleming and Ms. Drewicz Ewing",5
-Isaac,Flores,11,M,"J058-1, Atlanta Civil Rights; Mr. Breite, Ms. Fleming and Ms. Drewicz Ewing",0
-Rishab,Jayanthi,11,M,"J058-1, Atlanta Civil Rights; Mr. Breite, Ms. Fleming and Ms. Drewicz Ewing",0
+Phoebe,Liu,12,F,"J055-1, Art & Science of Violin Making; Mr. Boomer",1
+Kelsey,Yao,12,F,"J055-1, Art & Science of Violin Making; Mr. Boomer",2
+Kennedy,Walker,9,F,"J058-1, Atlanta Civil Rights; Mr. Breite, Ms. Fleming and Ms. Drewicz Ewing",1
+Christianna,Doele,10,F,"J058-1, Atlanta Civil Rights; Mr. Breite, Ms. Fleming and Ms. Drewicz Ewing",2
+Meimei,Xu,10,F,"J058-1, Atlanta Civil Rights; Mr. Breite, Ms. Fleming and Ms. Drewicz Ewing",1
 Sam,Lape,11,M,"J058-1, Atlanta Civil Rights; Mr. Breite, Ms. Fleming and Ms. Drewicz Ewing",3
-Hope,Manning,11,F,"J058-1, Atlanta Civil Rights; Mr. Breite, Ms. Fleming and Ms. Drewicz Ewing",3
 Mackenzi,Stewart,11,F,"J058-1, Atlanta Civil Rights; Mr. Breite, Ms. Fleming and Ms. Drewicz Ewing",2
-Davis,Wilson,11,M,"J058-1, Atlanta Civil Rights; Mr. Breite, Ms. Fleming and Ms. Drewicz Ewing",0
-Claire,Bergman,12,F,"J058-1, Atlanta Civil Rights; Mr. Breite, Ms. Fleming and Ms. Drewicz Ewing",0
-Emily,Henegar,12,F,"J058-1, Atlanta Civil Rights; Mr. Breite, Ms. Fleming and Ms. Drewicz Ewing",0
-Alexa,O'Reilly,12,F,"J058-1, Atlanta Civil Rights; Mr. Breite, Ms. Fleming and Ms. Drewicz Ewing",0
-Bryson,Rorie,12,M,"J058-1, Atlanta Civil Rights; Mr. Breite, Ms. Fleming and Ms. Drewicz Ewing",0
-Stone,Sparkes,9,M,"J008-1, Atlantic Coastal Ecology & Culture; Dr. Slack and Dr. Wilson; (Overnight travel: January 8-12)",5
+Kelsey,Russell,12,F,"J058-1, Atlanta Civil Rights; Mr. Breite, Ms. Fleming and Ms. Drewicz Ewing",2
+Gwyn,Kelley,9,F,"J008-1, Atlantic Coastal Ecology & Culture; Dr. Slack and Dr. Wilson; (Overnight travel: January 8-12)",1
+Connor,Li,9,M,"J008-1, Atlantic Coastal Ecology & Culture; Dr. Slack and Dr. Wilson; (Overnight travel: January 8-12)",2
 Muskaan,Gupta,9,F,"J008-1, Atlantic Coastal Ecology & Culture; Dr. Slack and Dr. Wilson; (Overnight travel: January 8-12)",1
-Grace,Hardymon,9,F,"J008-1, Atlantic Coastal Ecology & Culture; Dr. Slack and Dr. Wilson; (Overnight travel: January 8-12)",2
-Connor,Weselman,9,M,"J008-1, Atlantic Coastal Ecology & Culture; Dr. Slack and Dr. Wilson; (Overnight travel: January 8-12)",4
-Emaad,Daya,9,M,"J008-1, Atlantic Coastal Ecology & Culture; Dr. Slack and Dr. Wilson; (Overnight travel: January 8-12)",4
-Murphy,McMenamy,9,M,"J008-1, Atlantic Coastal Ecology & Culture; Dr. Slack and Dr. Wilson; (Overnight travel: January 8-12)",3
-Rosa,Kim,9,F,"J008-1, Atlantic Coastal Ecology & Culture; Dr. Slack and Dr. Wilson; (Overnight travel: January 8-12)",3
+Akshadha,Lagisetti,9,F,"J008-1, Atlantic Coastal Ecology & Culture; Dr. Slack and Dr. Wilson; (Overnight travel: January 8-12)",2
+Ava,Gavin,9,F,"J008-1, Atlantic Coastal Ecology & Culture; Dr. Slack and Dr. Wilson; (Overnight travel: January 8-12)",2
 Siya,Kalra,9,F,"J008-1, Atlantic Coastal Ecology & Culture; Dr. Slack and Dr. Wilson; (Overnight travel: January 8-12)",1
+Zoe,Peterzell,9,F,"J008-1, Atlantic Coastal Ecology & Culture; Dr. Slack and Dr. Wilson; (Overnight travel: January 8-12)",1
 Eva,Romero,9,F,"J008-1, Atlantic Coastal Ecology & Culture; Dr. Slack and Dr. Wilson; (Overnight travel: January 8-12)",1
-May Lebby,Thompson,10,F,"J008-1, Atlantic Coastal Ecology & Culture; Dr. Slack and Dr. Wilson; (Overnight travel: January 8-12)",0
-Jordan,Kopcha,9,F,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",0
-Will,Eidbo,9,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",2
-Kiran,Gadde,9,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",4
-Andrew,Dotson,9,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",0
-Weyimi,Agbeyegbe,9,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",2
-Wicker,Croft,10,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",4
-Franklin,Brannen,10,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",4
-Sarah Jane,Peterson,10,F,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",4
+Kellen,Moore,10,M,"J008-1, Atlantic Coastal Ecology & Culture; Dr. Slack and Dr. Wilson; (Overnight travel: January 8-12)",1
+Bryant,Padron,10,M,"J008-1, Atlantic Coastal Ecology & Culture; Dr. Slack and Dr. Wilson; (Overnight travel: January 8-12)",2
+Patrick,Diaz,10,M,"J008-1, Atlantic Coastal Ecology & Culture; Dr. Slack and Dr. Wilson; (Overnight travel: January 8-12)",2
+Andrew,Abernathy,9,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",1
+Lowell,Jones,9,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",1
+Jayson,Longacre,9,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",1
+Aidan,Henry,9,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",1
+Dhruva,Ghosh,10,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",1
+Drew,Berg,10,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",1
+Mary Grace,Morrison,10,F,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",2
+Ryan,Reuther,10,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",1
+Tanner,Uzzell,10,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",1
+Will,Graves,10,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",1
 Smith,Patton,10,F,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",2
-Mary Louise,Rogers,10,F,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",4
-Adam,Rubinger,10,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",5
-Madison,Aarons,11,F,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",5
-Eli,Barry,11,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",3
-Ben,Forte,11,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",4
-Nance,Hill,11,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",4
-Witt,Sperau,11,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",4
+Riley,Warner,10,F,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",2
+Will,Benton,10,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",1
+Jack,Hunter,10,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",1
+Will,Hallmark,10,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",1
+Michael,Mahan,11,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",2
+Evie,Rearden,11,F,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",2
 Raymond,Baltz,12,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",2
-Charlie,McCollum,12,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",5
-Alix,Nail,12,F,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",0
-Bennett,Speed,12,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",2
+Lizzie,Hippe,12,F,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",2
+Andrew,Lingle,12,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",2
+Alexis,Saulny,12,F,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",2
+Will,Schramm,12,M,"J032-1, Broadcast Sports Journalism; Mr. Morgan and Ms. Klepper",1
 Maddie,Van Slyke,9,F,"J046-1, The Chattahoochee River: Politics & Science; Mr. McMahan and Mr. Spaulding; (Overnight travel: Jan. 4-5 & Jan. 8-11)",2
-Gwyn,Kelley,9,F,"J046-1, The Chattahoochee River: Politics & Science; Mr. McMahan and Mr. Spaulding; (Overnight travel: Jan. 4-5 & Jan. 8-11)",4
-Jenny,Herrera Cano,9,F,"J046-1, The Chattahoochee River: Politics & Science; Mr. McMahan and Mr. Spaulding; (Overnight travel: Jan. 4-5 & Jan. 8-11)",3
-Sriya,Kantipudi,9,F,"J046-1, The Chattahoochee River: Politics & Science; Mr. McMahan and Mr. Spaulding; (Overnight travel: Jan. 4-5 & Jan. 8-11)",0
-Preston,Rollins,9,M,"J046-1, The Chattahoochee River: Politics & Science; Mr. McMahan and Mr. Spaulding; (Overnight travel: Jan. 4-5 & Jan. 8-11)",4
-David,Dickey,10,M,"J046-1, The Chattahoochee River: Politics & Science; Mr. McMahan and Mr. Spaulding; (Overnight travel: Jan. 4-5 & Jan. 8-11)",4
-Will,Graves,10,M,"J046-1, The Chattahoochee River: Politics & Science; Mr. McMahan and Mr. Spaulding; (Overnight travel: Jan. 4-5 & Jan. 8-11)",5
+Brantley,Simon,9,F,"J046-1, The Chattahoochee River: Politics & Science; Mr. McMahan and Mr. Spaulding; (Overnight travel: Jan. 4-5 & Jan. 8-11)",2
+Aaron,Yu,9,M,"J046-1, The Chattahoochee River: Politics & Science; Mr. McMahan and Mr. Spaulding; (Overnight travel: Jan. 4-5 & Jan. 8-11)",2
+Anna Catherine,Gansereit,9,F,"J046-1, The Chattahoochee River: Politics & Science; Mr. McMahan and Mr. Spaulding; (Overnight travel: Jan. 4-5 & Jan. 8-11)",1
+Grayson,Bradley,10,F,"J046-1, The Chattahoochee River: Politics & Science; Mr. McMahan and Mr. Spaulding; (Overnight travel: Jan. 4-5 & Jan. 8-11)",2
+Angus,Carson,10,M,"J046-1, The Chattahoochee River: Politics & Science; Mr. McMahan and Mr. Spaulding; (Overnight travel: Jan. 4-5 & Jan. 8-11)",2
+Woods,Curry,10,M,"J046-1, The Chattahoochee River: Politics & Science; Mr. McMahan and Mr. Spaulding; (Overnight travel: Jan. 4-5 & Jan. 8-11)",1
 Scott,Arbery,10,M,"J046-1, The Chattahoochee River: Politics & Science; Mr. McMahan and Mr. Spaulding; (Overnight travel: Jan. 4-5 & Jan. 8-11)",1
-Will,Hallmark,10,M,"J046-1, The Chattahoochee River: Politics & Science; Mr. McMahan and Mr. Spaulding; (Overnight travel: Jan. 4-5 & Jan. 8-11)",0
-Patrick,Cobler,9,M,"J054-1, Children's Human Rights Around the World; Ms. Kelly and Ms. Liu; (Overnight Travel: Jan. 11-12; Alt. assignments for athletes)",0
-Tejiri,Ogufere,9,F,"J054-1, Children's Human Rights Around the World; Ms. Kelly and Ms. Liu; (Overnight Travel: Jan. 11-12; Alt. assignments for athletes)",0
-Lara,Jones,9,F,"J054-1, Children's Human Rights Around the World; Ms. Kelly and Ms. Liu; (Overnight Travel: Jan. 11-12; Alt. assignments for athletes)",5
-Elizabeth,Reid,9,F,"J054-1, Children's Human Rights Around the World; Ms. Kelly and Ms. Liu; (Overnight Travel: Jan. 11-12; Alt. assignments for athletes)",0
-Ana,Meza,9,F,"J054-1, Children's Human Rights Around the World; Ms. Kelly and Ms. Liu; (Overnight Travel: Jan. 11-12; Alt. assignments for athletes)",4
+Soumia,Vellanki,9,F,"J054-1, Children's Human Rights Around the World; Ms. Kelly and Ms. Liu; (Overnight Travel: Jan. 11-12; Alt. assignments for athletes)",2
+Allie,Woods,9,F,"J054-1, Children's Human Rights Around the World; Ms. Kelly and Ms. Liu; (Overnight Travel: Jan. 11-12; Alt. assignments for athletes)",2
+Julia,Rhee,9,F,"J054-1, Children's Human Rights Around the World; Ms. Kelly and Ms. Liu; (Overnight Travel: Jan. 11-12; Alt. assignments for athletes)",3
 Sarah,Street,9,F,"J054-1, Children's Human Rights Around the World; Ms. Kelly and Ms. Liu; (Overnight Travel: Jan. 11-12; Alt. assignments for athletes)",1
-William,Bollwerk,10,M,"J054-1, Children's Human Rights Around the World; Ms. Kelly and Ms. Liu; (Overnight Travel: Jan. 11-12; Alt. assignments for athletes)",0
-Kate,Zeising,10,F,"J054-1, Children's Human Rights Around the World; Ms. Kelly and Ms. Liu; (Overnight Travel: Jan. 11-12; Alt. assignments for athletes)",0
-Emily,Puett,10,F,"J054-1, Children's Human Rights Around the World; Ms. Kelly and Ms. Liu; (Overnight Travel: Jan. 11-12; Alt. assignments for athletes)",0
-Katie,Krupczak,10,F,"J054-1, Children's Human Rights Around the World; Ms. Kelly and Ms. Liu; (Overnight Travel: Jan. 11-12; Alt. assignments for athletes)",0
-Payton,Selby,10,F,"J054-1, Children's Human Rights Around the World; Ms. Kelly and Ms. Liu; (Overnight Travel: Jan. 11-12; Alt. assignments for athletes)",0
-Bryce,Mackson,9,M,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",3
-Pierce,Roberts,9,M,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",3
-Kennedy,Walker,9,F,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",0
-Matthew,Propp,9,M,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",5
-Kerrick,McDonald,9,M,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",5
-Yash,Kadadi,9,M,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",0
-Brandon,Zhou,9,M,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",5
+Zachary,Walpole,9,M,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",1
+Faiz,Merchant,9,M,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",2
+Hunter,Groton,9,M,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",2
 Madeline,Simpson,9,F,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",2
-Connor,Hinkes,10,M,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",5
-Gillian,Gracey,10,F,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",0
+Cobi,Henry,10,F,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",1
 Austin,Turner,10,M,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",3
 Daven,Yadav,10,M,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",1
-Cecie,Bassett,11,F,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",0
-Daniel,DeSouza,11,M,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",0
-Christopher,Johnston,11,M,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",3
-Madeline,Langley,11,F,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",5
-Truman,Vick,12,M,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",0
-Jonas,Du,9,M,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",0
+Eva,Batelaan,11,F,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",1
+Vincent,Fang,11,M,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",1
+Charlie,Ham,11,M,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",2
+Alejandro,Lim,11,M,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",2
+William,Long,11,M,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",2
+Declan,Thanner,11,M,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",2
+Oliver,Babb,12,M,"J018-1, Engineering & Design; Dr. Welji and Mr. Hendrix",3
 Anne Marie,Alsobrook,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",1
+Mary Locke,Speed,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",2
+Emma Riley,McGahan,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",2
+Lily,Fleischmann,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",1
 Mari,Manning,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",1
-Holley,Jackson,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",5
-Brooke,Rascoe,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",4
-Lucy,Hager,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",4
 Nimisha,Iyer,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",2
+Jenny,Herrera Cano,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",2
+Megan,Propp,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",2
+Claire,Genova,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",2
+Sarah,Logie,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",1
+Jamie,Klein,9,M,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",1
 Eleanor,Carroll,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",2
-Katie,Kronauge,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",0
-Brantley,Simon,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",1
-Catherine,Hamilton,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",3
-Elena,Karas,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",5
-Emme,Payne,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",5
-Mary Grace,Morrison,10,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",3
-Turner,Cravens,10,M,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",0
-Jack,Pittman,10,M,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",0
-Alex,Bradham,10,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",0
-Laddy,Linginfelter,11,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",0
-Hampton,Maxim,11,M,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",0
-Diego,Morales,11,M,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",0
-Shaylyn,Sullivan,11,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",4
-Paris,Howland,12,M,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",0
-Steven,Crawford,9,M,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",0
+Dorothy,Bird,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",1
+Jasmine,Jones,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",1
+Evelyn,Hunter,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",2
+Chase,Curry,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",2
+Chloe,Emch,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",2
+Sarah,Lao,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",1
+Olivia,Bontempo,9,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",2
+Omar,Zamora,9,M,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",1
+Hanna,Shimelis,10,F,"J013-1, Experiencing Atlanta: Spoken Word, Documentary Film, DJing, & Dance; Ms. Dracos-Tice and Dr. Olid",2
+Hallie,Schiff,9,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",2
+Caroline,Riedel,9,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",3
+Katie,Blau,9,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",1
+Sadie,Holder,9,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",1
+Tejiri,Ogufere,9,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",1
+Lara,Jones,9,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",1
+Brooke,Rascoe,9,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",1
 Keiran,Smith,9,M,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",2
 Mason,Harper,9,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",1
-Caroline,Hagood,9,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",4
-Eva,Earnest,9,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",4
-Daniel,Bonner,9,M,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",0
-Virginia,Bailey,10,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",0
+Olivia,Pirouz,9,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",1
+Rosa,Kim,9,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",2
+Ana,Meza,9,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",1
+Sam,Cohn,9,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",1
+Azucena,Estrada-Grajales,10,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",1
+Marae,Harrell,10,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",1
+Nylah,Desnoyer,10,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",1
 Catherine,Wang,10,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",1
+Corrie,Delva,10,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",2
 Ivory,Grimes,10,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",2
-Tori,Penn,10,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",5
-Cate,Ragland,10,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",5
-Parks,Harber,10,M,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",0
-Virginia,Harrison,11,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",5
-Regina,Morales,11,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",3
-Matt,Peters,11,M,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",2
-Anna,Tarkenton,11,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",4
-Kailah,Adams,12,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",5
-Courtney,Frank,12,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",4
-Peter,Rooney,12,M,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",4
-Jack,Halliburton,9,M,"J066-1, Flight, Fight, or Freeze: The Psychology of Fear; Dr. Ursin and Mrs. Justice",5
+Sasha,Fuson,11,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",1
+Marie,Hudgins,11,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",3
+Lily,Chubb,12,F,"J038-1, Fashion Design; Ms. Martinez and Ms. Horne",2
+Jordan,Kopcha,9,F,"J066-1, Flight, Fight, or Freeze: The Psychology of Fear; Dr. Ursin and Mrs. Justice",2
 Alex,Rankin,9,M,"J066-1, Flight, Fight, or Freeze: The Psychology of Fear; Dr. Ursin and Mrs. Justice",1
-Elizabeth Grace,Khan,9,F,"J066-1, Flight, Fight, or Freeze: The Psychology of Fear; Dr. Ursin and Mrs. Justice",0
+Teja,Gadde,9,M,"J066-1, Flight, Fight, or Freeze: The Psychology of Fear; Dr. Ursin and Mrs. Justice",2
+Alexander,Changus,9,M,"J066-1, Flight, Fight, or Freeze: The Psychology of Fear; Dr. Ursin and Mrs. Justice",2
+Omar,Aylon,9,M,"J066-1, Flight, Fight, or Freeze: The Psychology of Fear; Dr. Ursin and Mrs. Justice",2
+Lucie,Ide,9,F,"J066-1, Flight, Fight, or Freeze: The Psychology of Fear; Dr. Ursin and Mrs. Justice",2
 Samantha,Bertschi,9,F,"J066-1, Flight, Fight, or Freeze: The Psychology of Fear; Dr. Ursin and Mrs. Justice",2
-Beck,Edmiston,9,M,"J066-1, Flight, Fight, or Freeze: The Psychology of Fear; Dr. Ursin and Mrs. Justice",5
-Sarah,Logie,9,F,"J066-1, Flight, Fight, or Freeze: The Psychology of Fear; Dr. Ursin and Mrs. Justice",3
-Jamie,Klein,9,M,"J066-1, Flight, Fight, or Freeze: The Psychology of Fear; Dr. Ursin and Mrs. Justice",2
-Neon,Khaled,9,M,"J066-1, Flight, Fight, or Freeze: The Psychology of Fear; Dr. Ursin and Mrs. Justice",0
-Aidan,Henry,9,M,"J066-1, Flight, Fight, or Freeze: The Psychology of Fear; Dr. Ursin and Mrs. Justice",4
-Amy,Zhao,9,F,"J066-1, Flight, Fight, or Freeze: The Psychology of Fear; Dr. Ursin and Mrs. Justice",3
-Aaron,Yu,9,M,"J066-1, Flight, Fight, or Freeze: The Psychology of Fear; Dr. Ursin and Mrs. Justice",3
-Jenna,Brown,9,F,"J066-1, Flight, Fight, or Freeze: The Psychology of Fear; Dr. Ursin and Mrs. Justice",0
-Huntington,Stone,10,M,"J066-1, Flight, Fight, or Freeze: The Psychology of Fear; Dr. Ursin and Mrs. Justice",0
+Grace,Armstrong,9,F,"J066-1, Flight, Fight, or Freeze: The Psychology of Fear; Dr. Ursin and Mrs. Justice",1
+Nick,O'Reilly,9,M,"J066-1, Flight, Fight, or Freeze: The Psychology of Fear; Dr. Ursin and Mrs. Justice",2
+Walker,Weston,9,M,"J066-1, Flight, Fight, or Freeze: The Psychology of Fear; Dr. Ursin and Mrs. Justice",3
 Leslie,Coronel,10,F,"J066-1, Flight, Fight, or Freeze: The Psychology of Fear; Dr. Ursin and Mrs. Justice",1
 Azeez,Ishaqui,9,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",1
+Angel,Osorio Maldonado,9,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",2
 Carl,Kassabian,9,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",1
-Will,Rothschild,9,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",2
-Olivia,Bontempo,9,F,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",0
-Nathan,Barnette,10,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",5
-Andrew,Stevens,10,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",3
+Cole,Hinkes,10,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",1
+Connor,Hinkes,10,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",1
+Trevor,Jones,10,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",1
+Will,Dracos,10,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",1
 Michael,Amerson,11,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",1
-Charlie,Dourron,11,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",5
-Ryan,Kennedy,11,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",2
+Carlos,Carranza,11,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",1
+Stephen,Eisenhauer,11,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",1
+Michael,Johnson,11,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",1
 SangMi,Lee,11,F,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",1
-William,Long,11,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",1
+Niki,Manocha,11,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",2
 Donovan,Mitchell,11,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",1
-Matthew,Schmal,11,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",4
-Declan,Thanner,11,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",1
-John,Watkins,11,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",4
-Alex,Cann,12,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",4
-Julia,Clark,12,F,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",3
+Ian,Moore,11,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",1
+Carter,Oesterling,11,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",1
+Grady,Thomas,11,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",1
+Katie,Barkin,12,F,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",1
 James,Greene,12,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",1
-Aveed,Matinfar,12,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",5
-Max,Withrow,12,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",1
-Kelsey,Yao,12,F,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",3
-Andrew,Abernathy,9,M,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",4
-Emma Riley,McGahan,9,F,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",3
-Claire,Genova,9,F,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",1
-Akshadha,Lagisetti,9,F,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",1
-Ava,Alexander,9,F,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",4
-Charlotte,Polly,10,F,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",2
-Mary Elaine,Allen,10,F,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",4
-Andrew,York,10,M,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",4
+Jamal,Hashim,12,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",1
+Addison,Jones,12,M,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",1
+Lara,Kassabian,12,F,"J079-1, Forking Paths: Narrative Design in Video Games; Dr. Addcox and Mr. Kaplan",1
+Ellie,Gilbert,9,F,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",2
+Riya,Jayanthi,9,F,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",1
+Holley,Jackson,9,F,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",1
+Daisy,Gryboski,9,F,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",1
+Caroline,Hagood,9,F,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",1
+Mary Emily,Morgan,9,F,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",1
+Ann Myrick,McGrew,9,F,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",1
+Elizabeth,Reid,9,F,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",1
+Colin,Suddath,9,M,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",1
+Elena,Karas,9,F,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",1
+Emme,Payne,9,F,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",2
 Benjamin,Allen,11,M,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",2
-Benjamin,Egan,11,M,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",0
-Christina,Randolph,11,F,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",0
+Max,Gelb,11,M,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",2
+Victoria,Gospodinov,11,F,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",1
+Jack,Gregg,11,M,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",3
+Alan,Jernigan,11,M,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",3
+Bill,Jordan,11,M,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",2
+Andy,Riedel,11,M,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",2
 Badger,Warner,11,M,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",3
-Junta,Yasuda,11,M,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",2
-Lauren,Carpinella,12,F,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",4
-Tanner,Hines,12,M,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",4
-Will,Schramm,12,M,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",5
-Mary Locke,Speed,9,F,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",0
-Gavin,Zhou,9,M,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",0
-Laura,Richard,9,F,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",3
-Jasmine,Jones,9,F,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",2
-Madison,Harrell,9,F,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",3
+Ogechi,Adele,12,F,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",1
+Luke,Jones,12,M,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",2
+Lindsay,Vincent,12,F,"J051-1, French Cooking & Culture; Dr. Hanson and Mr. Oliver",2
+Christina,Boye,9,F,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",1
+Charlie,Zacks,9,M,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",2
 Aldyn,Goheen,9,F,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",1
-Max,Norman,9,M,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",2
-Nicholas,Buhay,10,M,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",0
-Katherine,Vuckovic,10,F,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",3
+Will,Rothschild,9,M,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",1
+Max,Linkon,10,M,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",1
+Roshan,Vemuri,10,M,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",1
+Eliza,Fleming,10,F,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",1
 Kelsey,Varn,10,F,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",1
+Saanya,Kapasi,10,F,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",1
+Beck,Payne,10,M,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",2
 Cole,Seagroves,10,M,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",1
-Jake,Jameson,11,M,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",0
-Will,Thompson,11,M,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",3
+Charlotte,Brown,10,F,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",1
+Sims,Kuester,11,M,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",1
+Emma Kate,Lill,11,F,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",1
+Julia,Clark,12,F,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",1
 Ramsey,Clyde,12,M,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",1
-Will,Hagood,12,M,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",0
-Zach,Hay,12,M,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",0
+Courtney,Frank,12,F,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",1
+Hannah,Gomez,12,F,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",1
+Erik,Montag,12,M,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",1
 Julianna,Puett,12,F,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",1
-Katherine,Taylor,12,F,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",1
-Tony,Amenu,9,M,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",1
-Anna,Brandigi,9,F,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",1
-Andrew,Creighton,9,M,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",3
-Alexander,Changus,9,M,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",1
-Daisy,Gryboski,9,F,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",0
-Megan,Propp,9,F,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",5
-Amelia,Carabajal,9,F,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",3
-Ryan,Hockstein,9,M,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",5
-William,Brougher,9,M,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",3
-Kaelan,Kelly,9,M,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",3
-Dev,Joshi,9,M,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",4
-Sarah,Lao,9,F,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",2
-Max,Fritz,9,M,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",2
-Samantha,Foshee,9,F,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",3
-Walker,Weston,9,M,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",2
+Katie,Schumacher,12,F,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",1
+Angela,Zhang,12,F,"J080-1, Give my Regards to Broadway: History & Musical Theatre; Ms. Morgens, Mr. Maynard, Ms. Wilson; (One evening commitment)",1
+Jack,Halliburton,9,M,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",1
+Sidney,Nguyen,9,M,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",1
+Rachel,Liu,9,F,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",2
+Anand,Srinivasan,9,M,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",1
+Gavin,Zhou,9,M,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",1
+Porter,Thomas,9,M,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",1
+Selle,James,9,F,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",2
+James,Carr,9,M,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",1
+Hugh,Trotter,9,M,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",1
+Martha,Reavis,9,F,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",1
 William,Buhay,10,M,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",1
+Will,DeWalt,10,M,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",1
+Ayinde,Green,10,M,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",1
 Annie,Ballard,10,F,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",1
-Christianna,Doele,10,F,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",1
+May Lebby,Thompson,10,F,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",1
 Sydney,Hunter,10,F,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",1
-Mei Mei,Hawkins,10,F,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",3
-Duke,Glenn,9,M,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",0
-Riya,Jayanthi,9,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",0
-Selle,James,9,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",4
-Faiz,Merchant,9,M,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",0
+Catie,Chubb,10,F,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",2
+Pinky,Yabroudy,10,F,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",2
+Jane,Miller,10,F,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",2
+Jonathan,Morgan,10,M,"J039-1, History & Physics of Flight; Mr. Watkins, Mr. Byrd, Mr. Souza; (Overnight travel: January 10-11)",2
 Larson,Normark,9,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",1
-Maya,Smith,9,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",4
-Martha,Reavis,9,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",4
-Azucena,Estrada-Grajales,10,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",4
-Chandler,Searcy,10,M,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",4
-Olivia,Tordella,10,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",5
-Maddie,Graham,10,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",5
-Davis,Smith,10,M,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",4
-Eva,Batelaan,11,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",3
+Catherine,Hamilton,9,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",1
+Lilly,Jordan,9,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",1
+Grayson,Lambert,9,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",1
+Samantha,Foshee,9,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",1
+Ally,Polhemus,9,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",2
+Virginia,Bailey,10,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",1
+Anne-Catherine,Nichols,10,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",1
+Maggie,Love,10,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",1
+Tori,Penn,10,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",1
+Sarah Jane,Peterson,10,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",1
+Molly,Cann,10,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",2
+Lauren,Davidson,11,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",1
+Virginia,Harrison,11,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",1
+Maddie,Hazlehurst,11,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",2
 Viviana,Ramos,11,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",1
-Zoe,Wood,11,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",2
-Brock,Galyardt,12,M,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",3
-Colin,Gutzmer,12,M,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",3
+Miles,Davis,12,M,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",2
+Paris,Howland,12,M,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",2
 Isabel,Morgan,12,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",1
+Alex,Pirouz,12,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",1
+Avery,Shiver,12,F,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",2
 Malcolm,Strickland,12,M,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",2
-Alan,Xu,12,M,"J084-1, Interior Design; Ms. Boozer and Ms. Patel",0
+Duke,Glenn,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",2
 Chase,Moss,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",1
+Will,Eidbo,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",1
 Benjamin,Montag,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",2
-Teja,Gadde,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",5
-Dylan,Farley,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",2
-Lowell,Jones,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",2
+Kiran,Gadde,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",1
+Mark,Mahan,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",1
+Wyatt,Stevenson,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",1
 Avi,Athota,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",1
-Ryan,Githuku,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",3
-Dorothy,Bird,9,F,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",5
-Charlie,Zacks,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",4
+Ejike,Adele,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",1
 Matthew,Spillman,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",1
+Rj,Anglade,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",1
+Emaad,Daya,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",1
 George,Corbin,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",2
-Vance,Elliott,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",3
-Holland,Bald,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",5
-Ally,Polhemus,9,F,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",0
-Hunter,Groton,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",1
-Beck,Payne,10,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",3
-Carlos,Carranza,11,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",5
-Lauren,Davidson,11,F,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",0
-Drew,Hockstein,11,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",4
-Harrison,Katz,11,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",4
-Addison,Jones,12,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",4
-Meghna,Patel,12,F,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",0
+Jack,Scalise,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",1
+Matthew,Propp,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",2
+Taji,Flynn,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",1
+Brandon,Zhou,9,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",1
+Matthew,Amerson,11,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",2
+Charlie,Dourron,11,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",2
+Ryan,Kennedy,11,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",1
+TJ,Malloy,11,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",2
+Brock,Galyardt,12,M,"J034-1, IT Fundamentals and Exploration; Mr. DiPanfilo and Mr. Harrison",2
 Jack,Schaaf,9,M,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",1
-Zachary,Walpole,9,M,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",3
-Gray,Aldridge,9,M,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",4
+Jonas,Du,9,M,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",2
+Anna,Brandigi,9,F,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",2
+Ashwin,Pillai,9,M,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",1
+Cabot,Kimball,9,F,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",1
 Rishi,Manghat,9,M,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",1
-Aydin,Bandukwala,9,M,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",0
-Julia,Dase,9,F,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",5
-Austin,Lauer,10,M,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",4
+Maya,Smith,9,F,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",2
+Jenna,Brown,9,F,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",1
+Holland,Bald,9,M,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",1
+Kerrick,McDonald,9,M,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",2
+Virginia,Hatcher,9,F,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",1
+Tyler,McCamey,10,F,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",3
 Cameron,Foster,10,M,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",3
-Christopher,Gryboski,10,M,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",4
-KJ,Pressly,10,F,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",4
-J Edward,Robinette,10,M,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",0
+Nathan,Barnette,10,M,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",2
+Emily,Puett,10,F,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",1
 Kavya,Vadapalli,10,F,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",1
-Astrid,Wheeler,10,F,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",4
+Olivia,Tordella,10,F,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",2
+George,Alford,10,M,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",1
+Adam,Rubinger,10,M,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",3
+Davis,Smith,10,M,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",3
 Sean,Reuther,10,M,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",3
-Jack,Hunter,10,M,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",4
-Coleman,Thompson,10,M,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",4
+Payton,Selby,10,F,"J085-1, Law and Order: Understanding the Legal System; Mr. Oliver and Dr. Goings; (Evening and Weekend Obligations: optional)",1
+Steven,Crawford,9,M,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",1
+Stone,Sparkes,9,M,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",2
+Dylan,Farley,9,M,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",1
+Dempsey,Block,9,M,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",1
 Drew,Downes,9,M,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",2
-Dallas,Clement,9,F,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",3
 Sara,Lape,9,F,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",1
-Christina,Boye,9,F,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",0
 Robert,Black,9,M,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",1
-Matthew,Beck,9,M,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",5
 Robert,Herzfeld,9,M,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",1
+Elle,Shores,9,F,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",1
+Trip,Mize,9,M,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",1
 Julianne,Sklenka,9,F,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",1
+Kaelan,Kelly,9,M,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",1
 Emory,Halford,9,M,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",1
-Charlotte,Ficery,9,F,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",3
+Sai,Tummala,9,M,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",1
+Murphy,McMenamy,9,M,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",1
+Preston,Rollins,9,M,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",1
 Morgan,Shiver,9,F,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",1
 Sean,Rolle,10,M,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",2
+Wicker,Croft,10,M,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",1
 Jennings,McGill,10,M,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",1
-Angus,Carson,10,M,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",1
-Will,Meyer,10,M,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",5
-Jane,Miller,10,F,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",0
-Jonathan,Morgan,10,M,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",5
-Walker,McPhail,10,M,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",2
-Katie,Blau,9,F,"J053-1, Making & DIY Culture; Ms. Clemmons",3
-Wyatt,Stevenson,9,M,"J053-1, Making & DIY Culture; Ms. Clemmons",0
-Cabot,Kimball,9,F,"J053-1, Making & DIY Culture; Ms. Clemmons",4
+Franklin,Brannen,10,M,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",2
+Phillip,Metzheiser,10,M,"J086-1, The Literature and Ecology of Fly Fishing; Mr. Justice",1
+Elizabeth Grace,Khan,9,F,"J053-1, Making & DIY Culture; Ms. Clemmons",1
 Mackenzie,Watson,9,F,"J053-1, Making & DIY Culture; Ms. Clemmons",1
-Olivia,Pirouz,9,F,"J053-1, Making & DIY Culture; Ms. Clemmons",2
+William,Brougher,9,M,"J053-1, Making & DIY Culture; Ms. Clemmons",2
+Ava,Alexander,9,F,"J053-1, Making & DIY Culture; Ms. Clemmons",3
 Janie,Greene,9,F,"J053-1, Making & DIY Culture; Ms. Clemmons",1
-Charles,Campbell,9,M,"J053-1, Making & DIY Culture; Ms. Clemmons",5
-Camryn,Brewer,9,F,"J053-1, Making & DIY Culture; Ms. Clemmons",4
-Sophia,Stahl,9,F,"J053-1, Making & DIY Culture; Ms. Clemmons",4
-Matthew,Lamberth,10,M,"J053-1, Making & DIY Culture; Ms. Clemmons",5
-Mary Claire,Harper,10,F,"J053-1, Making & DIY Culture; Ms. Clemmons",0
-Rachel,Liu,9,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",3
-Anand,Srinivasan,9,M,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",5
-Lucie,Ide,9,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",1
-Grace,Armstrong,9,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",3
+Benjamin,Spinrad,9,M,"J053-1, Making & DIY Culture; Ms. Clemmons",3
+Charlotte,Polly,10,F,"J053-1, Making & DIY Culture; Ms. Clemmons",3
+Alex,Wagner,10,F,"J053-1, Making & DIY Culture; Ms. Clemmons",3
+Eric,Wang,9,M,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",2
+Lucy,Hager,9,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",2
+Lucy,McCollum,9,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",3
 Allie,Berg,9,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",2
-Trip,Mize,9,M,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",0
-Chloe,Emch,9,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",5
-Grayson,Lambert,9,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",4
+Sriya,Kantipudi,9,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",2
+Madison,Harrell,9,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",1
+Amy,Zhao,9,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",2
+Charles,Campbell,9,M,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",2
+Camryn,Brewer,9,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",2
 Annie,Sumardi,9,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",1
-Virginia,Hatcher,9,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",0
+Yash,Kadadi,9,M,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",2
+Sydney,Martin,10,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",1
 Betsy,Moore,10,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",2
-Tripp,Wood,10,M,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",5
-Bryant,Padron,10,M,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",4
-Henrietta,Wright,10,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",0
-Anna,Bradford,10,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",0
-Telissa,Reynolds,10,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",3
-Chance,Hausman,10,M,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",0
-Charlene,Bohrer,10,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",4
-Saanya,Kapasi,10,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",3
+Sarah Grace,Allen,10,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",1
+Adelyn,Anderson,10,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",2
+Caroline,Glahn,10,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",1
+Katie,Krupczak,10,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",1
+Jack,Pittman,10,M,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",2
+Jack,Lariccia,10,M,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",3
+Claire,Emch,10,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",1
+Alex,Bradham,10,F,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",1
+John,Guerry,10,M,"J087-1, Meet Your Brain; Dr. Moore, Mr. Bernstein, Ms. Monroe, Dr. Miller and Ms. DiOrio",3
 Kelli,Flowers,9,F,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",1
+Laura,Richard,9,F,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",2
 Haden,Pennington,9,M,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",1
-Chase,Curry,9,F,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",0
-James,Richard,9,M,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",0
-Taji,Flynn,9,M,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",0
-Max,Linkon,10,M,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",2
-Cobi,Henry,10,F,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",3
-Kellen,Moore,10,M,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",3
-Anne-Catherine,Nichols,10,F,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",0
-Eliza,Fleming,10,F,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",2
-Patrick,Diaz,10,M,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",1
+Max,Norman,9,M,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",1
+Sophia,Stahl,9,F,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",1
 Carver,Partin,10,M,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",2
-Alex,Wagner,10,F,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",5
-Sims,Kuester,11,M,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",5
-Taysia,Lawyer,11,F,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",0
-Jack,Crawford,12,M,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",4
+Andrew,Stevens,10,M,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",1
+Hailey,McKee,10,F,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",1
+Lauren,Brown,12,F,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",1
+Robert,Carter,12,M,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",1
+Lauren,Clement,12,F,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",2
+John Fraser,Davis,12,M,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",2
 Joe,Egan,12,M,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",1
 Meredith,Ficery,12,F,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",2
+Mason,Fowler,12,M,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",1
+Will,Hagood,12,M,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",1
 Ryan,Miller,12,M,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",1
+Matthew,Morris,12,M,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",2
 Ali,Mourad,12,M,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",2
-Avery,Shiver,12,F,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",3
-Bryan,Weselman,12,M,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",1
-Hallie,Schiff,9,F,"J060-1, Periodismo: Journalism in Spanish; Mrs. Russell and Ms. Tosello; (Pre-requisite: Spanish III Honors or higher)",0
-Ella,Jones,9,F,"J060-1, Periodismo: Journalism in Spanish; Mrs. Russell and Ms. Tosello; (Pre-requisite: Spanish III Honors or higher)",0
-Soumia,Vellanki,9,F,"J060-1, Periodismo: Journalism in Spanish; Mrs. Russell and Ms. Tosello; (Pre-requisite: Spanish III Honors or higher)",3
-James,Carr,9,M,"J060-1, Periodismo: Journalism in Spanish; Mrs. Russell and Ms. Tosello; (Pre-requisite: Spanish III Honors or higher)",0
-Evelyn,Hunter,9,F,"J060-1, Periodismo: Journalism in Spanish; Mrs. Russell and Ms. Tosello; (Pre-requisite: Spanish III Honors or higher)",0
+Sarah Elizabeth,Payne,12,F,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",3
+Miller,Polly,12,M,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",2
+David,Vroon,12,M,"J074-1, Music and Meaning: Exploring the Musical Brain & Human Society; Mr. Gough and Dr. Walters",1
+Patrick,Cobler,9,M,"J060-1, Periodismo: Journalism in Spanish; Mrs. Russell and Ms. Tosello; (Pre-requisite: Spanish III Honors or higher)",0
 Daniela,Velasquez,10,F,"J060-1, Periodismo: Journalism in Spanish; Mrs. Russell and Ms. Tosello; (Pre-requisite: Spanish III Honors or higher)",1
-Grant,Matzigkeit,11,M,"J060-1, Periodismo: Journalism in Spanish; Mrs. Russell and Ms. Tosello; (Pre-requisite: Spanish III Honors or higher)",0
-Ian,Moore,11,M,"J060-1, Periodismo: Journalism in Spanish; Mrs. Russell and Ms. Tosello; (Pre-requisite: Spanish III Honors or higher)",0
-Warren,Seeds,11,M,"J060-1, Periodismo: Journalism in Spanish; Mrs. Russell and Ms. Tosello; (Pre-requisite: Spanish III Honors or higher)",0
-Lucy,Stewart,11,F,"J060-1, Periodismo: Journalism in Spanish; Mrs. Russell and Ms. Tosello; (Pre-requisite: Spanish III Honors or higher)",4
-Cabery,Taylor,11,F,"J060-1, Periodismo: Journalism in Spanish; Mrs. Russell and Ms. Tosello; (Pre-requisite: Spanish III Honors or higher)",4
-Annie,Bernot,12,F,"J060-1, Periodismo: Journalism in Spanish; Mrs. Russell and Ms. Tosello; (Pre-requisite: Spanish III Honors or higher)",0
-Albert,Zhang,12,M,"J060-1, Periodismo: Journalism in Spanish; Mrs. Russell and Ms. Tosello; (Pre-requisite: Spanish III Honors or higher)",0
 Will,Batelaan,9,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",1
-Connor,Li,9,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",5
-Eric,Wang,9,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",1
-Dempsey,Block,9,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",4
-Ellie,Gilbert,9,F,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",4
-Porter,Thomas,9,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",2
-Elle,Shores,9,F,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",3
-Ejike,Adele,9,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",5
-Rj,Anglade,9,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",2
-Julia,Rhee,9,F,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",2
-Mary Emily,Morgan,9,F,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",4
-Ann Myrick,McGrew,9,F,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",0
-Colin,Suddath,9,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",2
-Nick,O'Reilly,9,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",1
-Hugh,Trotter,9,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",3
+Alexander,Zwerner,9,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",1
+Dallas,Clement,9,F,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",2
+Bryce,Mackson,9,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",1
+Gray,Aldridge,9,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",1
+Ryan,Githuku,9,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",1
+Aydin,Bandukwala,9,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",1
+Vance,Elliott,9,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",2
+Andrew,Mao,9,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",2
+Charlotte,Ficery,9,F,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",2
+James,Richard,9,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",1
 Russell,Wagman,9,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",1
 Hatcher,Beach,9,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",1
-Benjamin,Spinrad,9,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",1
-Billy,Kistulinec,10,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",3
+Nicholas,Buhay,10,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",1
+Walker,Gleeson,10,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",1
+J.D.,Blitch,10,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",1
+Zachary,Roe,10,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",1
+Chandler,Searcy,10,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",1
 Ryan,Schaufele,10,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",1
+Paul,Weathington,10,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",1
+Chance,Hausman,10,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",1
 Jonathan,Williams,10,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",1
-John,Guerry,10,M,"J070-1, Physics of Sports; Mr. Malmberg and Mr. Vuckovic",5
-Alexander,Zwerner,9,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",2
-Caroline,Riedel,9,F,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",0
-Omar,Aylon,9,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",0
-Cope,Smith,9,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",4
-Lily,Fleischmann,9,F,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",0
-Jayson,Longacre,9,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",3
-Blaise,Fleury,9,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",4
-Allie,Woods,9,F,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",4
-Sai,Tummala,9,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",2
-Andrew,Mao,9,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",3
+Tony,Amenu,9,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",2
+Andrew,Creighton,9,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",1
+Sam,Flynn,9,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",2
+Connor,Weselman,9,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",2
+Ryan,Hockstein,9,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",2
+Andrew,Dotson,9,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",2
+Dev,Joshi,9,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",1
+Daniel,Bonner,9,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",1
 Alex,Edler,9,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",2
-Joel,Williams,10,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",0
-Walker,Gleeson,10,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",4
-Matt,Hoffman,10,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",0
+Charlie,Conklin,9,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",1
+Billy,Kistulinec,10,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",2
+Tripp,Wood,10,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",2
+William,Bollwerk,10,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",2
+Austin,Lauer,10,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",1
+David,Dickey,10,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",2
+Elizabeth,Carter,10,F,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",1
 Parker,Battin,10,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",2
-Zachary,Roe,10,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",4
-Tanner,Uzzell,10,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",3
-Phoebe,Lariccia,10,F,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",0
+Matthew,Lamberth,10,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",1
+Walker,McPhail,10,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",1
+Eric,Rubinger,10,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",1
 Ryan,Chambliss,10,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",1
-Sadie,Holder,9,F,"J005-1, Sports Medicine; Ms. Hays and Ms. White",2
-Sam,Flynn,9,M,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
-Mark,Mahan,9,M,"J005-1, Sports Medicine; Ms. Hays and Ms. White",3
+Coleman,Thompson,10,M,"J088-1, Science & Design of Cars & Racing; Mr. Wellford and Mr. Merrill",1
+Cope,Smith,9,M,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
 Amelia,Bergeron,9,F,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
-Lucy,McCollum,9,F,"J005-1, Sports Medicine; Ms. Hays and Ms. White",2
-Lilly,Jordan,9,F,"J005-1, Sports Medicine; Ms. Hays and Ms. White",2
+Matthew,Beck,9,M,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
+Ella,Jones,9,F,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
+Beck,Edmiston,9,M,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
+Amelia,Carabajal,9,F,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
+Eva,Earnest,9,F,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
+Weyimi,Agbeyegbe,9,M,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
 Kennedy,Howard,9,F,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
-Sam,Cohn,9,F,"J005-1, Sports Medicine; Ms. Hays and Ms. White",3
-Omar,Zamora,9,M,"J005-1, Sports Medicine; Ms. Hays and Ms. White",4
+Max,Fritz,9,M,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
 Olivia,Hazlehurst,9,F,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
-Anna Catherine,Gansereit,9,F,"J005-1, Sports Medicine; Ms. Hays and Ms. White",2
-Ayinde,Green,10,M,"J005-1, Sports Medicine; Ms. Hays and Ms. White",3
-Chimere,Onwukeme,10,M,"J005-1, Sports Medicine; Ms. Hays and Ms. White",3
-Tyler,McCamey,10,F,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
-Jessica,Levine,10,F,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
+Joel,Williams,10,M,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
+David,Perchik,10,M,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
+Kate,Zeising,10,F,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
+Turner,Woley,10,M,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
+Mason,McGarrity,10,F,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
 Maggie,Graham,10,F,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
-Catie,Chubb,10,F,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
-Caroline,Glahn,10,F,"J005-1, Sports Medicine; Ms. Hays and Ms. White",4
-Gus,Karas,10,M,"J005-1, Sports Medicine; Ms. Hays and Ms. White",2
-Molly,Cann,10,F,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
-Jack,Scalise,9,M,"J073-1, STEAM Workshop: Innovation, Science, & Art; Mr. Steele and Mr. Hare; (Overnight travel: January 16-18)",5
-Ava,Gavin,9,F,"J073-1, STEAM Workshop: Innovation, Science, & Art; Mr. Steele and Mr. Hare; (Overnight travel: January 16-18)",0
-Cole,Hinkes,10,M,"J073-1, STEAM Workshop: Innovation, Science, & Art; Mr. Steele and Mr. Hare; (Overnight travel: January 16-18)",5
-Meimei,Xu,10,F,"J073-1, STEAM Workshop: Innovation, Science, & Art; Mr. Steele and Mr. Hare; (Overnight travel: January 16-18)",0
-Max,Graves,10,M,"J073-1, STEAM Workshop: Innovation, Science, & Art; Mr. Steele and Mr. Hare; (Overnight travel: January 16-18)",4
-Matthew,Amerson,11,M,"J073-1, STEAM Workshop: Innovation, Science, & Art; Mr. Steele and Mr. Hare; (Overnight travel: January 16-18)",4
-Stephen,Eisenhauer,11,M,"J073-1, STEAM Workshop: Innovation, Science, & Art; Mr. Steele and Mr. Hare; (Overnight travel: January 16-18)",5
-Eliza,Normark,11,F,"J073-1, STEAM Workshop: Innovation, Science, & Art; Mr. Steele and Mr. Hare; (Overnight travel: January 16-18)",0
-Evie,Rearden,11,F,"J073-1, STEAM Workshop: Innovation, Science, & Art; Mr. Steele and Mr. Hare; (Overnight travel: January 16-18)",0
-Christopher,Riemann,11,M,"J073-1, STEAM Workshop: Innovation, Science, & Art; Mr. Steele and Mr. Hare; (Overnight travel: January 16-18)",3
-Lara,Kassabian,12,F,"J073-1, STEAM Workshop: Innovation, Science, & Art; Mr. Steele and Mr. Hare; (Overnight travel: January 16-18)",0
-Bri,Zimmerman,12,F,"J073-1, STEAM Workshop: Innovation, Science, & Art; Mr. Steele and Mr. Hare; (Overnight travel: January 16-18)",4
-Maggie,Love,10,F,"J075-1, Creating a Woman's Life; Dr. Hunter and Ms. Heald",4
+Mary Elaine,Allen,10,F,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
+Parks,Harber,10,M,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
+Andrew,York,10,M,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
+Anna,Bass,10,F,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
+Alex,York,10,M,"J005-1, Sports Medicine; Ms. Hays and Ms. White",1
+Pierce,Roberts,9,M,"J073-1, STEAM Workshop: Innovation, Science, & Art; Mr. Steele and Mr. Hare; (Overnight travel: January 16-18)",2
+Grace,Hardymon,9,F,"J073-1, STEAM Workshop: Innovation, Science, & Art; Mr. Steele and Mr. Hare; (Overnight travel: January 16-18)",1
+Neon,Khaled,9,M,"J073-1, STEAM Workshop: Innovation, Science, & Art; Mr. Steele and Mr. Hare; (Overnight travel: January 16-18)",1
+Scott,DeShetler,9,M,"J073-1, STEAM Workshop: Innovation, Science, & Art; Mr. Steele and Mr. Hare; (Overnight travel: January 16-18)",1
+Katie,Kronauge,9,F,"J073-1, STEAM Workshop: Innovation, Science, & Art; Mr. Steele and Mr. Hare; (Overnight travel: January 16-18)",0
+Julia,Dase,9,F,"J073-1, STEAM Workshop: Innovation, Science, & Art; Mr. Steele and Mr. Hare; (Overnight travel: January 16-18)",1
+Turner,Cravens,10,M,"J073-1, STEAM Workshop: Innovation, Science, & Art; Mr. Steele and Mr. Hare; (Overnight travel: January 16-18)",3
+Ashley,Jian,10,F,"J073-1, STEAM Workshop: Innovation, Science, & Art; Mr. Steele and Mr. Hare; (Overnight travel: January 16-18)",2
+Elizabeth,Brougher,12,F,"J073-1, STEAM Workshop: Innovation, Science, & Art; Mr. Steele and Mr. Hare; (Overnight travel: January 16-18)",0
+Max,Withrow,12,M,"J073-1, STEAM Workshop: Innovation, Science, & Art; Mr. Steele and Mr. Hare; (Overnight travel: January 16-18)",2
 Anna,Davis,10,F,"J075-1, Creating a Woman's Life; Dr. Hunter and Ms. Heald",2
-Morgan,Moore,10,F,"J075-1, Creating a Woman's Life; Dr. Hunter and Ms. Heald",2
-Adelyn,Anderson,10,F,"J075-1, Creating a Woman's Life; Dr. Hunter and Ms. Heald",0
-Anna,Bass,10,F,"J075-1, Creating a Woman's Life; Dr. Hunter and Ms. Heald",5
-Isabel,Evans,11,F,"J075-1, Creating a Woman's Life; Dr. Hunter and Ms. Heald",5
-Maddie,Hazlehurst,11,F,"J075-1, Creating a Woman's Life; Dr. Hunter and Ms. Heald",0
-Bridgette,Boggs,12,F,"J075-1, Creating a Woman's Life; Dr. Hunter and Ms. Heald",2
-Micayla,Cochran,12,F,"J075-1, Creating a Woman's Life; Dr. Hunter and Ms. Heald",4
-Lizzie,Hippe,12,F,"J075-1, Creating a Woman's Life; Dr. Hunter and Ms. Heald",0
-Iona,Tan,12,F,"J075-1, Creating a Woman's Life; Dr. Hunter and Ms. Heald",4
-Iris,Yin,12,F,"J075-1, Creating a Woman's Life; Dr. Hunter and Ms. Heald",2
-Marae,Harrell,10,F,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",4
-Mason,McGarrity,10,F,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",2
-Sam,Lauer,10,M,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",1
-Trevor,Jones,10,M,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",2
-Alex,York,10,M,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",2
+Grace,O'Gara,11,F,"J075-1, Creating a Woman's Life; Dr. Hunter and Ms. Heald",1
+Sarah Lawrence,McGill,12,F,"J075-1, Creating a Woman's Life; Dr. Hunter and Ms. Heald",2
+Taylor,Thomas,10,F,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",1
+Astrid,Wheeler,10,F,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",1
+Gillian,Gracey,10,F,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",1
+Mary Claire,Harper,10,F,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",2
+Peter,Bernot,10,M,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",1
 Brooke,Ansley,11,F,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",1
-Emily,Hansen,11,F,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",3
-Michael,Mahan,11,M,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",5
-Jack,Minson,11,M,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",0
+Halim,Labi,11,M,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",1
+Frances,Motley,11,F,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",1
+Eliza,Normark,11,F,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",2
 Ryan,Cha,12,M,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",2
-Ward,Croft,12,M,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",2
-Emily,Ferguson,12,F,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",2
-Scottie,Kelly,12,F,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",2
-Phoebe,Liu,12,F,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",0
-Santiago,Morales,12,M,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",5
-Paige,Price,12,F,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",3
-Brianna,Resuta,12,F,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",2
+Thomas,DeWalt,12,M,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",2
+Gabi,Dolan,12,F,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",1
+Colin,Gutzmer,12,M,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",2
+Tanner,Hines,12,M,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",2
+Charlie,McCollum,12,M,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",1
+Alix,Nail,12,F,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",1
+Jack,Polhemus,12,M,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",1
 Will,Spillman,12,M,"J061-1, Creative Design & Welding; Mr. Gibson and Ms. Wentzel",1
-Nylah,Desnoyer,10,F,"J065-1, Documentary Poetry and Image; Mr. Chard and Mr. Reese; (Overnight Travel: Jan 10-11; Alt. assignments for athletes)",0
-Corrie,Delva,10,F,"J065-1, Documentary Poetry and Image; Mr. Chard and Mr. Reese; (Overnight Travel: Jan 10-11; Alt. assignments for athletes)",5
-Peter,Bernot,10,M,"J065-1, Documentary Poetry and Image; Mr. Chard and Mr. Reese; (Overnight Travel: Jan 10-11; Alt. assignments for athletes)",0
-Woods,Curry,10,M,"J065-1, Documentary Poetry and Image; Mr. Chard and Mr. Reese; (Overnight Travel: Jan 10-11; Alt. assignments for athletes)",4
-George,Alford,10,M,"J065-1, Documentary Poetry and Image; Mr. Chard and Mr. Reese; (Overnight Travel: Jan 10-11; Alt. assignments for athletes)",0
-Charlotte,Brown,10,F,"J065-1, Documentary Poetry and Image; Mr. Chard and Mr. Reese; (Overnight Travel: Jan 10-11; Alt. assignments for athletes)",5
-Adelaide,Burrows,11,F,"J065-1, Documentary Poetry and Image; Mr. Chard and Mr. Reese; (Overnight Travel: Jan 10-11; Alt. assignments for athletes)",2
-Emma Kate,Lill,11,F,"J065-1, Documentary Poetry and Image; Mr. Chard and Mr. Reese; (Overnight Travel: Jan 10-11; Alt. assignments for athletes)",0
-Niki,Manocha,11,M,"J065-1, Documentary Poetry and Image; Mr. Chard and Mr. Reese; (Overnight Travel: Jan 10-11; Alt. assignments for athletes)",0
-Elizabeth,Rothschild,11,F,"J065-1, Documentary Poetry and Image; Mr. Chard and Mr. Reese; (Overnight Travel: Jan 10-11; Alt. assignments for athletes)",2
+Morgan,Moore,10,F,"J065-1, Documentary Poetry and Image; Mr. Chard and Mr. Reese; (Overnight Travel: Jan 10-11; Alt. assignments for athletes)",1
+Charlene,Bohrer,10,F,"J065-1, Documentary Poetry and Image; Mr. Chard and Mr. Reese; (Overnight Travel: Jan 10-11; Alt. assignments for athletes)",1
+Will,Meyer,10,M,"J065-1, Documentary Poetry and Image; Mr. Chard and Mr. Reese; (Overnight Travel: Jan 10-11; Alt. assignments for athletes)",2
+Emma,Bussey,11,F,"J065-1, Documentary Poetry and Image; Mr. Chard and Mr. Reese; (Overnight Travel: Jan 10-11; Alt. assignments for athletes)",2
+Izzy,Sumardi,11,F,"J065-1, Documentary Poetry and Image; Mr. Chard and Mr. Reese; (Overnight Travel: Jan 10-11; Alt. assignments for athletes)",1
+Grant,Pinkston,11,M,"J065-1, Documentary Poetry and Image; Mr. Chard and Mr. Reese; (Overnight Travel: Jan 10-11; Alt. assignments for athletes)",0
+Claire,Bergman,12,F,"J065-1, Documentary Poetry and Image; Mr. Chard and Mr. Reese; (Overnight Travel: Jan 10-11; Alt. assignments for athletes)",2
 Frances,Brown,12,F,"J065-1, Documentary Poetry and Image; Mr. Chard and Mr. Reese; (Overnight Travel: Jan 10-11; Alt. assignments for athletes)",1
 Rains,Draper,12,M,"J065-1, Documentary Poetry and Image; Mr. Chard and Mr. Reese; (Overnight Travel: Jan 10-11; Alt. assignments for athletes)",1
-Ryan,Reuther,10,M,"J078-1, Folk Art; Mr. Lambert and Mr. Paul Arnett; (Overnight Travel: Multiple nights, dates TBD)",0
-Will,Dracos,10,M,"J078-1, Folk Art; Mr. Lambert and Mr. Paul Arnett; (Overnight Travel: Multiple nights, dates TBD)",0
-Grant,Barron,11,M,"J078-1, Folk Art; Mr. Lambert and Mr. Paul Arnett; (Overnight Travel: Multiple nights, dates TBD)",0
-Annie,Parsons,11,F,"J078-1, Folk Art; Mr. Lambert and Mr. Paul Arnett; (Overnight Travel: Multiple nights, dates TBD)",0
-Valeria,Serna,11,F,"J078-1, Folk Art; Mr. Lambert and Mr. Paul Arnett; (Overnight Travel: Multiple nights, dates TBD)",0
-Dylan,Vroon,11,M,"J078-1, Folk Art; Mr. Lambert and Mr. Paul Arnett; (Overnight Travel: Multiple nights, dates TBD)",0
-Crawford,Asman,12,M,"J078-1, Folk Art; Mr. Lambert and Mr. Paul Arnett; (Overnight Travel: Multiple nights, dates TBD)",0
-Creed,Beavers,12,M,"J078-1, Folk Art; Mr. Lambert and Mr. Paul Arnett; (Overnight Travel: Multiple nights, dates TBD)",4
+Maggie,Fowler,12,F,"J065-1, Documentary Poetry and Image; Mr. Chard and Mr. Reese; (Overnight Travel: Jan 10-11; Alt. assignments for athletes)",2
+Damaris,Zamudio,12,F,"J065-1, Documentary Poetry and Image; Mr. Chard and Mr. Reese; (Overnight Travel: Jan 10-11; Alt. assignments for athletes)",1
 Ella,Bradford,12,F,"J078-1, Folk Art; Mr. Lambert and Mr. Paul Arnett; (Overnight Travel: Multiple nights, dates TBD)",2
-Lauren,Brown,12,F,"J078-1, Folk Art; Mr. Lambert and Mr. Paul Arnett; (Overnight Travel: Multiple nights, dates TBD)",2
-Robert,Carter,12,M,"J078-1, Folk Art; Mr. Lambert and Mr. Paul Arnett; (Overnight Travel: Multiple nights, dates TBD)",0
-Ella,Collier,12,F,"J078-1, Folk Art; Mr. Lambert and Mr. Paul Arnett; (Overnight Travel: Multiple nights, dates TBD)",0
-Emma,Hardymon,12,F,"J078-1, Folk Art; Mr. Lambert and Mr. Paul Arnett; (Overnight Travel: Multiple nights, dates TBD)",0
-Sydney,Martin,10,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",3
-Taylor,Thomas,10,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",3
+Lily,Canfield,12,F,"J078-1, Folk Art; Mr. Lambert and Mr. Paul Arnett; (Overnight Travel: Multiple nights, dates TBD)",2
+Jack,Crawford,12,M,"J078-1, Folk Art; Mr. Lambert and Mr. Paul Arnett; (Overnight Travel: Multiple nights, dates TBD)",3
+Will,Finley,12,M,"J078-1, Folk Art; Mr. Lambert and Mr. Paul Arnett; (Overnight Travel: Multiple nights, dates TBD)",2
+Scottie,Kelly,12,F,"J078-1, Folk Art; Mr. Lambert and Mr. Paul Arnett; (Overnight Travel: Multiple nights, dates TBD)",3
+Morgan,McCamey,12,F,"J078-1, Folk Art; Mr. Lambert and Mr. Paul Arnett; (Overnight Travel: Multiple nights, dates TBD)",3
+Frances,Mize,12,F,"J078-1, Folk Art; Mr. Lambert and Mr. Paul Arnett; (Overnight Travel: Multiple nights, dates TBD)",1
+Caterina,Prestia,12,F,"J078-1, Folk Art; Mr. Lambert and Mr. Paul Arnett; (Overnight Travel: Multiple nights, dates TBD)",1
+Carlyle,Rollins,12,F,"J078-1, Folk Art; Mr. Lambert and Mr. Paul Arnett; (Overnight Travel: Multiple nights, dates TBD)",3
+Iona,Tan,12,F,"J078-1, Folk Art; Mr. Lambert and Mr. Paul Arnett; (Overnight Travel: Multiple nights, dates TBD)",1
 Margaret,McClatchey,10,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",2
-J.D.,Blitch,10,M,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",5
-Grayson,Bradley,10,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",4
+Henrietta,Wright,10,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",2
+Jessica,Levine,10,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",2
+Katherine,Vuckovic,10,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",2
+KJ,Pressly,10,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",1
+Telissa,Reynolds,10,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",1
+Cate,Ragland,10,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",1
+Maddie,Graham,10,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",2
+Phoebe,Lariccia,10,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",1
+Mary Louise,Rogers,10,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",2
 Taylor,Boozer,10,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",1
-Ashley,Jian,10,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",1
-Claire,Emch,10,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",0
-Hailey,McKee,10,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",4
-Tristan,Ferrari,11,M,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",0
-Nathalie,LeBreton,11,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",3
-Christina,Luo,11,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",0
-TJ,Malloy,11,M,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",5
-Frances,Motley,11,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",5
-Elizabeth,Brougher,12,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",0
-Brendan,Dolan,12,M,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",0
+Mei Mei,Hawkins,10,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",1
+Max,Graves,10,M,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",2
+Caroline,Herzfeld,11,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",1
+Hope,Manning,11,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",1
+Zain,Palanpur,11,M,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",1
+Joe,Billips,12,M,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",2
 Marlyn,Medrano,12,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",1
-Julie,Street,12,F,"J037-1, Food Chemistry & Global Cultures; Mrs. Allan and Mrs. Latham",4
-Dhruva,Ghosh,10,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",5
-David,Perchik,10,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",2
-Drew,Berg,10,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",2
-Paul,Weathington,10,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",2
+Matt,Hoffman,10,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",1
+Christopher,Gryboski,10,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",1
+J Edward,Robinette,10,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",1
 Charles,Wickliffe,10,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",1
-Riley,Warner,10,F,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",0
-Pinky,Yabroudy,10,F,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",3
-Eric,Rubinger,10,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",2
-Emma,Bussey,11,F,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",0
-Michael,Johnson,11,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",3
-Bill,Jordan,11,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",3
+Cole,Bergman,10,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",1
+Gus,Karas,10,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",1
+Macy,Adams,11,F,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",2
+Eli,Barry,11,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",2
+Anders,Feinour,11,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",2
+Emily,Hansen,11,F,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",2
+Banks,Platford,11,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",2
+Warren,Seeds,11,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",1
 Edward,Shores,11,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",1
-Talia,Staude,11,F,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",2
-Brantly,Black,12,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",4
-Lauren,Clement,12,F,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",3
-Mason,Fowler,12,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",2
-Charlie,Greene,12,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",2
-Marsh,Hazlehurst,12,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",2
-Lindsay,Vincent,12,F,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",0
+Davis,Wilson,11,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",2
+Crawford,Asman,12,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",1
+Ward,Croft,12,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",1
+David,Edmiston,12,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",1
+Raegan,Kelley,12,F,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",2
+Vishan,Patel,12,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",1
+Peter,Rooney,12,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",1
 Sam,Woodhouse,12,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",2
-Will,Smith,12,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",3
-Roshan,Vemuri,10,M,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",3
+Peter,York,12,M,"J041-1, Mathematics of Fantasy Sports; Mr. Stodghill and Dr. Salimi",1
+Huntington,Stone,10,M,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",1
+Ridings,Bald,10,M,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",1
 Kunal,Poddar,10,M,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",2
-Cole,Bergman,10,M,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",0
+Sam,Lauer,10,M,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",3
 Ryan,Anderson,11,M,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",1
-Vincent,Fang,11,M,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",4
-Alan,Jernigan,11,M,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",0
+Grant,Barron,11,M,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",2
+Grayson,Harralson,11,M,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",1
+Rishab,Jayanthi,11,M,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",1
+Paxton,Klein,11,M,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",2
+Jackson,Kottke,11,M,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",1
 Katherine,Li,11,F,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",2
-Alejandro,Lim,11,M,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",3
-Aidan,Linkins,11,M,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",4
-Drew,Norman,11,F,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",0
-Zain,Palanpur,11,M,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",2
-Lily,Canfield,12,F,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",5
-Jamal,Hashim,12,M,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",4
-Alexa,Tomaras,12,F,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",0
-Damaris,Zamudio,12,F,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",0
-Will,DeWalt,10,M,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",0
-Ridings,Bald,10,M,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",4
+Isabella,Pu,11,F,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",1
+Christopher,Rascoe,11,M,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",1
+Christopher,Riemann,11,M,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",1
+Stephen,Skrynecki,11,M,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",3
+Dylan,Vroon,11,M,"J022-1, Post-Newtonian Physics; Mr. Lovell; (Overnight Travel: One Night; Alt. assignments for athletes)",2
+Chimere,Onwukeme,10,M,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",1
+Stephanie,Choi,10,F,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",2
+Anna,Bradford,10,F,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",2
 Annie,Kong,10,F,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",2
-Sarah Grace,Allen,10,F,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",2
-Phillip,Metzheiser,10,M,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",0
 Alison,Wilkinson,10,F,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",1
-Alexis,Anglade,11,F,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",2
-Charlie,Dillon,11,M,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",0
-Sasha,Fuson,11,F,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",0
-Victoria,Gospodinov,11,F,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",5
-Neeya,Patel,11,F,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",4
-Christopher,Rascoe,11,M,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",4
-Lonnie,Reid,11,M,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",3
-Andy,Riedel,11,M,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",0
-Catherine,Cole,12,F,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",4
-Raeba,Roy,12,F,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",3
-Evelyn,Stafford,12,F,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",0
-Charlie,Edmiston,11,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
-Caroline,Herzfeld,11,F,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",3
-Marie,Hudgins,11,F,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
+Isaac,Flores,11,M,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",2
+Zoe Grace,Hargrove,11,F,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",2
+Aidan,Linkins,11,M,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",1
+Valeria,Serna,11,F,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",2
+Kali,Holliday,12,F,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",2
+Ellie,Panetta,12,F,"J028-1, Scientific and Medical Ethics; Mrs. Harless and Ms. Bailey",1
+Tristan,Ferrari,11,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
+Kate,Gryboski,11,F,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
+Drew,Hockstein,11,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
+John O.,Izlar,11,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
+Jake,Jameson,11,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
+Luke,Jannetta,11,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
 Jake,Jones,11,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
+Laddy,Linginfelter,11,F,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
 Chance,Loeffler,11,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
-Sophie,McGahan,11,F,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",3
-Maggie,McSwain,11,F,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
-Carter,Oesterling,11,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",2
-Alykhan,Painter,11,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
-Banks,Platford,11,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
-John,Abernathy,12,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",2
-John Fraser,Davis,12,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
-Alana,Ducre,12,F,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",2
-Anneliese,Haas,12,F,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",5
-Xavier,Holliday,12,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",4
-Raegan,Kelley,12,F,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
-Peyton,Kendall,12,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
+Matthew,Schmal,11,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
+Merritt,Smith,11,F,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
+Talia,Staude,11,F,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
+Anna,Tarkenton,11,F,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
+Annie,Bernot,12,F,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
+Lauren,Carpinella,12,F,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
+Alex,Gracey,12,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
+Charlie,Greene,12,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
+Marsh,Hazlehurst,12,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
 Mary Chapman,Miller,12,F,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
-Miller,Polly,12,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
-Carlyle,Rollins,12,F,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",2
+Santiago,Morales,12,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
+Brianna,Resuta,12,F,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
 Ella,Shamburger,12,F,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
-Chris,Staley,12,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",3
+Jack,Snyder,12,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
 Emma Hayes,Tatum,12,F,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
-David,Vroon,12,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",2
-Imani,Bennett,11,F,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",1
+Truman,Vick,12,M,"J036-1, The Business of Sports; Mr. Wild and Mrs. Eubanks",1
+Madison,Aarons,11,F,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",1
+Bethlehem,Abegaz,11,F,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",1
+Sreya,Atmuri,11,F,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",1
 Victoria,Flowers,11,F,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",1
-Zoe Grace,Hargrove,11,F,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",1
-Reece,Kimball,11,F,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",0
-Thomas,Rankin,11,M,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",0
+Sophie,McGahan,11,F,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",1
+Regina,Morales,11,F,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",1
+Neeya,Patel,11,F,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",1
 Abigail,Saucedo,11,F,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",1
+Eduardo,Solis,11,M,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",2
+Shaylyn,Sullivan,11,F,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",1
+Creed,Beavers,12,M,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",1
 Hope,Cho,12,F,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",1
-Will,Finley,12,M,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",3
-Maggie,Fowler,12,F,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",1
-Hannah,Gomez,12,F,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",5
-Andrew,Lingle,12,M,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",5
-Frances,Mize,12,F,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",2
-Erik,Montag,12,M,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",0
-Caterina,Prestia,12,F,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",2
-Kelsey,Russell,12,F,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",1
-Jack,Snyder,12,M,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",0
-Langdon,Wheeler,12,M,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",4
+Catherine,Cole,12,F,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",1
+Alana,Ducre,12,F,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",1
+Xavier,Holliday,12,M,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",1
+Paige,Price,12,F,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",1
+Bryson,Rorie,12,M,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",1
+Maya,Taha,12,F,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",1
+Yessica,Velasquez,12,F,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",1
+Mason,Wright,12,M,"JJ077-1, Civil Rights in Cinema: American Activism & Film; Mr. Dwyer and Ms. Osborne; (Overnight Travel: January 10-13)",1
+Imani,Bennett,11,F,"J064-1, Current Events: Politics and the Politics of Science; Mr. Monahan and Ms. Cox",2
 Grace,Cohn,11,F,"J064-1, Current Events: Politics and the Politics of Science; Mr. Monahan and Ms. Cox",1
+Charlie,Dillon,11,M,"J064-1, Current Events: Politics and the Politics of Science; Mr. Monahan and Ms. Cox",2
 Mimi,Konieczny,11,F,"J064-1, Current Events: Politics and the Politics of Science; Mr. Monahan and Ms. Cox",1
-Jackson,Kottke,11,M,"J064-1, Current Events: Politics and the Politics of Science; Mr. Monahan and Ms. Cox",3
-Grace,O'Gara,11,F,"J064-1, Current Events: Politics and the Politics of Science; Mr. Monahan and Ms. Cox",4
 Andrew,Schaeffer,11,M,"J064-1, Current Events: Politics and the Politics of Science; Mr. Monahan and Ms. Cox",2
-Merritt,Smith,11,F,"J064-1, Current Events: Politics and the Politics of Science; Mr. Monahan and Ms. Cox",0
-Joe,Billips,12,M,"J064-1, Current Events: Politics and the Politics of Science; Mr. Monahan and Ms. Cox",0
+Anna,Smith,11,F,"J064-1, Current Events: Politics and the Politics of Science; Mr. Monahan and Ms. Cox",2
+Gehna,Chaubal,11,F,"J064-1, Current Events: Politics and the Politics of Science; Mr. Monahan and Ms. Cox",2
+Micayla,Cochran,12,F,"J064-1, Current Events: Politics and the Politics of Science; Mr. Monahan and Ms. Cox",2
 Will,Floyd,12,M,"J064-1, Current Events: Politics and the Politics of Science; Mr. Monahan and Ms. Cox",2
+Jay,Granade,12,M,"J064-1, Current Events: Politics and the Politics of Science; Mr. Monahan and Ms. Cox",1
+Georgia,Heery,12,F,"J064-1, Current Events: Politics and the Politics of Science; Mr. Monahan and Ms. Cox",2
+Peyton,Kendall,12,M,"J064-1, Current Events: Politics and the Politics of Science; Mr. Monahan and Ms. Cox",3
 Douglas,Nichols,12,M,"J064-1, Current Events: Politics and the Politics of Science; Mr. Monahan and Ms. Cox",2
-Alexis,Saulny,12,F,"J064-1, Current Events: Politics and the Politics of Science; Mr. Monahan and Ms. Cox",4
-Maya,Taha,12,F,"J064-1, Current Events: Politics and the Politics of Science; Mr. Monahan and Ms. Cox",2
-Peter,York,12,M,"J064-1, Current Events: Politics and the Politics of Science; Mr. Monahan and Ms. Cox",5
+Alexa,O'Reilly,12,F,"J064-1, Current Events: Politics and the Politics of Science; Mr. Monahan and Ms. Cox",1
 Arnav,Agrawala,11,M,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",2
-Anders,Feinour,11,M,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",5
-Jack,Gabriel,11,M,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",0
-Max,Gelb,11,M,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",4
-Grayson,Harralson,11,M,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",5
-Kate,Lindgren,11,F,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",0
-Jack,McDonald,11,M,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",4
+Daniel,DeSouza,11,M,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",1
+Charlie,Edmiston,11,M,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",3
+Nance,Hill,11,M,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",3
+Grant,Matzigkeit,11,M,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",3
+Alykhan,Painter,11,M,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",3
 Mikaela,Sanders,11,F,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",1
 Richard,Spencer,11,M,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",2
 Lily,Stewart,11,F,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",2
+John,Watkins,11,M,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",1
 Nathan,Zhu,11,M,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",2
-David,Edmiston,12,M,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",4
-Alex,Gracey,12,M,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",4
-Jay,Granade,12,M,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",3
+Emily,Henegar,12,F,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",2
+Devin,Lamar,12,M,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",2
 Madison,Patton,12,F,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",3
-Macy,Adams,11,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",0
-Sreya,Atmuri,11,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",3
-Jack,Gregg,11,M,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",0
+Albert,Zhang,12,M,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",2
+Will,Smith,12,M,"J010-1, Entrepreneurship: An Introduction; Ms. Pangle and Mr. Labouchere",1
+Charlie,Benedict,11,M,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",1
 Annabel,Heredia,11,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",1
-Assata,Quinichett,11,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",4
-Izzy,Sumardi,11,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",3
+Reece,Kimball,11,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",2
+Taysia,Lawyer,11,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",1
+Nathalie,LeBreton,11,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",1
+Christina,Luo,11,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",1
+Jack,McDonald,11,M,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",3
+Theo,Moss,11,M,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",1
+Nikki,Nikain,11,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",1
+Drew,Norman,11,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",1
+Annie,Parsons,11,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",1
+Lonnie,Reid,11,M,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",1
+Lucy,Stewart,11,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",1
+Cabery,Taylor,11,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",1
+Will,Thompson,11,M,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",1
+Zoe,Wood,11,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",1
 Elizabeth,Zona,11,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",1
-Devin,Lamar,12,M,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",0
-Matthew,Morris,12,M,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",0
-Sarah Elizabeth,Payne,12,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",0
-Caroline,Stewart,12,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",0
-Amory,Weinzierl,12,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",3
-Bethlehem,Abegaz,11,F,"J068-1, Living Leadership; Mr. Evans, Ms. Cowan and Mr. Batcheller",3
+Kailah,Adams,12,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",2
+Bronte,Bacchetta,12,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",1
+Bridgette,Boggs,12,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",1
+Grace,Nichols,12,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",2
+Raeba,Roy,12,F,"J024-1, History & Science of Plagues; Dr. Kaufman & Dr. Pace; (Overnight travel: January 8-11)",1
 Ishta,Bahl,11,F,"J068-1, Living Leadership; Mr. Evans, Ms. Cowan and Mr. Batcheller",3
-Charlie,Ham,11,M,"J068-1, Living Leadership; Mr. Evans, Ms. Cowan and Mr. Batcheller",0
-John O.,Izlar,11,M,"J068-1, Living Leadership; Mr. Evans, Ms. Cowan and Mr. Batcheller",0
+Maggie,McSwain,11,F,"J068-1, Living Leadership; Mr. Evans, Ms. Cowan and Mr. Batcheller",3
 Sophie,Mueller,11,F,"J068-1, Living Leadership; Mr. Evans, Ms. Cowan and Mr. Batcheller",1
-Mason,Poje,11,M,"J068-1, Living Leadership; Mr. Evans, Ms. Cowan and Mr. Batcheller",0
-Stephen,Skrynecki,11,M,"J068-1, Living Leadership; Mr. Evans, Ms. Cowan and Mr. Batcheller",0
-Anna,Smith,11,F,"J068-1, Living Leadership; Mr. Evans, Ms. Cowan and Mr. Batcheller",3
-Ryan,Costley,12,M,"J068-1, Living Leadership; Mr. Evans, Ms. Cowan and Mr. Batcheller",4
-Luke,Jones,12,M,"J068-1, Living Leadership; Mr. Evans, Ms. Cowan and Mr. Batcheller",4
+Thomas,Rankin,11,M,"J068-1, Living Leadership; Mr. Evans, Ms. Cowan and Mr. Batcheller",2
+Brendan,Dolan,12,M,"J068-1, Living Leadership; Mr. Evans, Ms. Cowan and Mr. Batcheller",2
+Anneliese,Haas,12,F,"J068-1, Living Leadership; Mr. Evans, Ms. Cowan and Mr. Batcheller",3
+Adam,Liang,12,M,"J068-1, Living Leadership; Mr. Evans, Ms. Cowan and Mr. Batcheller",2
+Aveed,Matinfar,12,M,"J068-1, Living Leadership; Mr. Evans, Ms. Cowan and Mr. Batcheller",3
 Will,Ostergard,12,M,"J068-1, Living Leadership; Mr. Evans, Ms. Cowan and Mr. Batcheller",2
-Alex,Pirouz,12,F,"J068-1, Living Leadership; Mr. Evans, Ms. Cowan and Mr. Batcheller",5
+Katherine,Taylor,12,F,"J068-1, Living Leadership; Mr. Evans, Ms. Cowan and Mr. Batcheller",2
+Iris,Yin,12,F,"J068-1, Living Leadership; Mr. Evans, Ms. Cowan and Mr. Batcheller",1
+Benjamin,Egan,11,M,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",1
+Ben,Forte,11,M,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",2
 Kelly,Hanratty,11,F,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",1
-Grant,Pinkston,11,M,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",0
+Christopher,Johnston,11,M,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",1
+Hampton,Maxim,11,M,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",1
+Diego,Morales,11,M,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",1
+Mason,Poje,11,M,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",2
+Junta,Yasuda,11,M,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",1
+John,Abernathy,12,M,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",1
 Ashley,Ahn,12,F,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",1
-Bronte,Bacchetta,12,F,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",2
 Jack,Balloun,12,M,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",1
-Katie,Barkin,12,F,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",5
-Cyan,D'Anjou,12,F,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",2
-Miles,Davis,12,M,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",0
-Thomas,DeWalt,12,M,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",5
-Georgia,Heery,12,F,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",1
-Kali,Holliday,12,F,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",4
+Olivia,Barrett,12,F,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",1
+Brantly,Black,12,M,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",2
+Ella,Collier,12,F,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",1
+Emily,Ferguson,12,F,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",1
 Matt,Howard,12,M,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",1
 Taylor,James,12,F,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",1
-Adam,Liang,12,M,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",1
-Mason,Wright,12,M,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",0
-Angela,Zhang,12,F,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",4
-Charlie,Benedict,11,M,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",5
+Meghna,Patel,12,F,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",1
+Bennett,Speed,12,M,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",1
+Julie,Street,12,F,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",1
+Amory,Weinzierl,12,F,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",1
+Alan,Xu,12,M,"J021-1, Music and The Movies; Dr. Stewart and Mrs. Vesey; (Overnight Travel: January 10-14)",1
+Cecie,Bassett,11,F,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",1
+Adelaide,Burrows,11,F,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",1
+Jack,Gabriel,11,M,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",1
 William,Lemaster,11,M,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",3
-Theo,Moss,11,M,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",5
+Kate,Lindgren,11,F,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",1
+Jack,Minson,11,M,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",3
+Christina,Randolph,11,F,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",2
+Elizabeth,Rothschild,11,F,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",1
 Holt,Sanders,11,M,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",2
-Eduardo,Solis,11,M,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",3
-Grady,Thomas,11,M,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",3
-Ogechi,Adele,12,F,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",3
-Lily,Chubb,12,F,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",0
+Witt,Sperau,11,M,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",2
+Jamel,Streater,11,M,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",2
+Alex,Cann,12,M,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",2
+Ryan,Costley,12,M,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",1
 Delaney,Graham,12,F,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",3
-Sarah Lawrence,McGill,12,F,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",3
-Ellie,Panetta,12,F,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",2
-Vishan,Patel,12,M,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",0
+Zach,Hay,12,M,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",3
 Dixon,Rothschild,12,M,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",3
-Katie,Schumacher,12,F,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",2
+Chris,Staley,12,M,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",1
+Caroline,Stewart,12,F,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",2
 Jack,Stone,12,M,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",1
-Kate,Gryboski,11,F,"J072-1, Science Fiction and the Ethics of Artificial Intelligence; Ms. Szolodko",0
-Luke,Jannetta,11,M,"J072-1, Science Fiction and the Ethics of Artificial Intelligence; Ms. Szolodko",0
+Alexa,Tomaras,12,F,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",3
+Langdon,Wheeler,12,M,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",2
+Bri,Zimmerman,12,F,"J089-1, Portrayals of God and Religion in American Media; Mr. Geeza and Dr. Vigil",1
+Alexis,Anglade,11,F,"J072-1, Science Fiction and the Ethics of Artificial Intelligence; Ms. Szolodko",1
+Isabel,Evans,11,F,"J072-1, Science Fiction and the Ethics of Artificial Intelligence; Ms. Szolodko",2
 Justin,Jones,11,M,"J072-1, Science Fiction and the Ethics of Artificial Intelligence; Ms. Szolodko",3
-Paxton,Klein,11,M,"J072-1, Science Fiction and the Ethics of Artificial Intelligence; Ms. Szolodko",3
-Halim,Labi,11,M,"J072-1, Science Fiction and the Ethics of Artificial Intelligence; Ms. Szolodko",0
-Jamel,Streater,11,M,"J072-1, Science Fiction and the Ethics of Artificial Intelligence; Ms. Szolodko",5
+Harrison,Katz,11,M,"J072-1, Science Fiction and the Ethics of Artificial Intelligence; Ms. Szolodko",2
+Madeline,Langley,11,F,"J072-1, Science Fiction and the Ethics of Artificial Intelligence; Ms. Szolodko",2
+Matt,Peters,11,M,"J072-1, Science Fiction and the Ethics of Artificial Intelligence; Ms. Szolodko",1
+Assata,Quinichett,11,F,"J072-1, Science Fiction and the Ethics of Artificial Intelligence; Ms. Szolodko",1
 Ava,Wang,11,F,"J072-1, Science Fiction and the Ethics of Artificial Intelligence; Ms. Szolodko",2
-Gehna,Chaubal,11,F,"J072-1, Science Fiction and the Ethics of Artificial Intelligence; Ms. Szolodko",3
-Gabi,Dolan,12,F,"J072-1, Science Fiction and the Ethics of Artificial Intelligence; Ms. Szolodko",4
-Grace,Nichols,12,F,"J072-1, Science Fiction and the Ethics of Artificial Intelligence; Ms. Szolodko",3
+Cyan,D'Anjou,12,F,"J072-1, Science Fiction and the Ethics of Artificial Intelligence; Ms. Szolodko",1
+Emma,Hardymon,12,F,"J072-1, Science Fiction and the Ethics of Artificial Intelligence; Ms. Szolodko",2
 Riley,Payne,12,M,"J072-1, Science Fiction and the Ethics of Artificial Intelligence; Ms. Szolodko",3
-Yessica,Velasquez,12,F,"J072-1, Science Fiction and the Ethics of Artificial Intelligence; Ms. Szolodko",5
-Isabella,Pu,11,F,"J076-1, Advanced STEAM Workshop: Innovation, Science, & Art; Mr. Steele and Mr. Hare; (Overnight travel: January 16-18)",0
+Evelyn,Stafford,12,F,"J072-1, Science Fiction and the Ethics of Artificial Intelligence; Ms. Szolodko",1
+Bryan,Weselman,12,M,"J072-1, Science Fiction and the Ethics of Artificial Intelligence; Ms. Szolodko",2

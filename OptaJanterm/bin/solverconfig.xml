@@ -9,5 +9,4 @@
   	<unimprovedHoursSpentLimit>1</unimprovedHoursSpentLimit>
   	<unimprovedMinutesSpentLimit>0</unimprovedMinutesSpentLimit>
   	<unimprovedSecondsSpentLimit>0</unimprovedSecondsSpentLimit>
-  </termination>
-</solver>
+  </termination></solver>
