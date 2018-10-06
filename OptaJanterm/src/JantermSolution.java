@@ -65,12 +65,19 @@ public class JantermSolution {
 	}
 
 	public String csvOutput() {
-		String out = "first,last,grade,gender,course,happiness\n";
+		String out = "first,last,grade,gender,course,happiness,1st choice,2nd choice,3rd choice,4th choice,5th choice\n";
 		Map<Course, List<Student>> courseLists = getCourseLists();
 		for (Course c : courses) {
 			for (Student s : courseLists.get(c)) {
 				out += s.getFirst() + "," + s.getLast() + "," + s.getGrade() + "," + (s.isMale() ? "M" : "F") + ",\""
-						+ s.getAssignment() + "\"," + (s.getPreferences().indexOf(s.getAssignment()) + 1) + "\n";
+						+ s.getAssignment() + "\"," + (s.getPreferences().indexOf(s.getAssignment()) + 1) + ",";
+				for (Course pref : s.getPreferences()) {
+					if (pref != null)
+						out += "\"" + pref.getName() + "\",";
+					else
+						out += "\"None\",";
+				}
+				out += "\n";
 			}
 		}
 		return out;

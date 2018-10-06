@@ -22,12 +22,6 @@ public class JantermRunner implements Runnable {
 	private Solver<JantermSolution> solver;
 	private String sizeExceptions;
 
-	public static void main(String[] args) {
-		JantermRunner jr = new JantermRunner("9th_grade_2019.csv", "10th_grade_2019.csv", "11th_grade_2019.csv",
-				"12th_grade_2019.csv", "exceptions.csv");
-		jr.run();
-	}
-
 	public JantermRunner(String grade9, String grade10, String grade11, String grade12, String sizeExceptions) {
 		courses = new ArrayList<Course>();
 		students = new ArrayList<Student>();
