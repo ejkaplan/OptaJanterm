@@ -104,9 +104,11 @@ public class JantermRunner implements Runnable {
 		}
 		for (int i = 1; i < allRows.size(); i++) {
 			String[] row = allRows.get(i);
+			String email = row[0];
 			String first = row[1];
 			String last = row[2];
 			boolean gender = row[3].equals("M");
+			String id = row[5];
 			List<Course> prefs = new ArrayList<Course>();
 			List<String> rowList = Arrays.asList(row);
 			int count = 0;
@@ -123,11 +125,9 @@ public class JantermRunner implements Runnable {
 				if (count == 0)
 					prefs.clear();
 			}
-			Student st = new Student(first, last, gr, gender, prefs);
+			Student st = new Student(email, first, last, gr, gender, id, prefs);
 			if (st.getPreferences().size() > 0) {
 				do {
-//					System.out.println(st.getFirst() + " " + st.getLast());
-//					System.out.println(st.getPreferences());
 					st.setAssignment(st.getPreferences().get((int) (st.getPreferences().size() * Math.random())));
 				} while (st.getAssignment() == null);
 			} else

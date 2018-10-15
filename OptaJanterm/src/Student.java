@@ -1,6 +1,7 @@
 
 import java.util.List;
 
+import org.codehaus.plexus.util.StringUtils;
 import org.optaplanner.core.api.domain.entity.PlanningEntity;
 import org.optaplanner.core.api.domain.valuerange.ValueRangeProvider;
 import org.optaplanner.core.api.domain.variable.PlanningVariable;
@@ -10,6 +11,8 @@ public class Student {
 
 	private String first;
 	private String last;
+	private String email;
+	private String id;
 	private Grade grade;
 	private boolean male;
 	private List<Course> preferences;
@@ -19,11 +22,14 @@ public class Student {
 
 	}
 
-	public Student(String first, String last, Grade grade, boolean male, List<Course> preferences) {
-		this.first = first;
-		this.last = last;
+	public Student(String email, String first, String last, Grade grade, boolean male, String id,
+			List<Course> preferences) {
+		this.email = email.toLowerCase();
+		this.first = StringUtils.capitalise(first);
+		this.last = StringUtils.capitalise(last);
 		this.grade = grade;
 		this.male = male;
+		this.id = id;
 		this.preferences = preferences;
 	}
 
@@ -35,12 +41,20 @@ public class Student {
 		return last;
 	}
 
+	public String getEmail() {
+		return email;
+	}
+
 	public Grade getGrade() {
 		return grade;
 	}
 
 	public boolean isMale() {
 		return male;
+	}
+
+	public String getID() {
+		return id;
 	}
 
 	public List<Course> getPreferences() {
